@@ -1,4 +1,4 @@
-package us.egek92.mvvm.ui
+package us.egek92.mvvm.ui.cryptocurrency
 
 
 import android.support.v7.widget.RecyclerView

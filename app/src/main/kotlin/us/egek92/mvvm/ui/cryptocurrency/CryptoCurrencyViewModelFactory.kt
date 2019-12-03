@@ -1,4 +1,4 @@
-package us.egek92.mvvm.ui
+package us.egek92.mvvm.ui.cryptocurrency
 
 import android.arch.lifecycle.ViewModel
 import android.arch.lifecycle.ViewModelProvider

@@ -9,7 +9,7 @@ import dagger.Module
 import dagger.Provides
 import us.egek92.mvvm.persistance.dao.CryptoCurrencyDao
 import us.egek92.mvvm.persistance.local.Database
-import us.egek92.mvvm.ui.CryptoCurrencyViewModelFactory
+import us.egek92.mvvm.ui.cryptocurrency.CryptoCurrencyViewModelFactory
 import us.egek92.mvvm.utils.Constants
 import us.egek92.mvvm.utils.Utils
 import javax.inject.Singleton

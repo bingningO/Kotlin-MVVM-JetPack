@@ -1,4 +1,4 @@
-package us.egek92.mvvm.ui
+package us.egek92.mvvm.ui.cryptocurrency
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.MutableLiveData
